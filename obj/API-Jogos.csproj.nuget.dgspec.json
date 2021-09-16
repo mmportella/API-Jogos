@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\workspace\\API-Jogos\\API-Jogos\\API-Jogos.csproj": {}
+    "C:\\workspace\\dotnet\\API-Jogos\\API-Jogos.csproj": {}
   },
   "projects": {
-    "C:\\workspace\\API-Jogos\\API-Jogos\\API-Jogos.csproj": {
+    "C:\\workspace\\dotnet\\API-Jogos\\API-Jogos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\workspace\\API-Jogos\\API-Jogos\\API-Jogos.csproj",
+        "projectUniqueName": "C:\\workspace\\dotnet\\API-Jogos\\API-Jogos.csproj",
         "projectName": "API-Jogos",
-        "projectPath": "C:\\workspace\\API-Jogos\\API-Jogos\\API-Jogos.csproj",
+        "projectPath": "C:\\workspace\\dotnet\\API-Jogos\\API-Jogos.csproj",
         "packagesPath": "C:\\Users\\marcelo\\.nuget\\packages\\",
-        "outputPath": "C:\\workspace\\API-Jogos\\API-Jogos\\obj\\",
+        "outputPath": "C:\\workspace\\dotnet\\API-Jogos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -53,6 +53,10 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
             }
           },
           "imports": [
